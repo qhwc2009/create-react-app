@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
-  "version": "3.0.1",
-  "description": "Configuration and scripts for Create React App.",
+  "name": "wangchen-test-react-scripts",
+  "version": "0.0.1",
+  "description": "Wangchen test Configuration and scripts for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/qhwc2009/test-create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
